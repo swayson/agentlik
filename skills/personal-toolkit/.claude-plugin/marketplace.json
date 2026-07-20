@@ -7,7 +7,7 @@
     {
       "name": "personal-toolkit",
       "source": "./",
-      "description": "Personal skill bundle: handoff, grilling/grill-me, learn, socratic-learn, fact-check, causal-reasoning-engine, boi.",
+      "description": "Personal skill bundle: handoff, grilling/grill-me, learn, socratic-learn, teach, fact-check, causal-reasoning-engine, empirical-schematization, boi, icm-workspace-builder, write-great-skills, abu-rating, futures-metacognition, forecast-discipline, foresight-error-correction.",
       "version": "0.1.0"
     }
   ]
