@@ -1,0 +1,14 @@
+{
+  "name": "personal-toolkit",
+  "owner": {
+    "name": "swayson"
+  },
+  "plugins": [
+    {
+      "name": "personal-toolkit",
+      "source": "./",
+      "description": "Personal skill bundle: handoff, grilling/grill-me, learn, socratic-learn, fact-check, causal-reasoning-engine, boi.",
+      "version": "0.1.0"
+    }
+  ]
+}
